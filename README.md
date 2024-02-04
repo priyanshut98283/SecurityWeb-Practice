@@ -1,2 +1,2 @@
 # Securityweb-practice
-Downlaod dependencies
+Download dependencies
